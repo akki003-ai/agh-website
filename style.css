@@ -1,0 +1,5 @@
+body{font-family:Arial,sans-serif;margin:0;background:#fff8f0;color:#333}
+header{background:#f57c00;color:#fff;padding:40px;text-align:center}
+nav{padding:15px;background:#fff3e0;text-align:center}
+nav a{text-decoration:none;color:#f57c00;margin:0 10px;font-weight:bold}
+section{max-width:900px;margin:auto;padding:30px}

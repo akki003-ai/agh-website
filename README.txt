@@ -1,0 +1,1 @@
+Replace assets/logo.png and hero images later.
