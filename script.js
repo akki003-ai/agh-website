@@ -1,0 +1,1 @@
+console.log('AGH website loaded');
